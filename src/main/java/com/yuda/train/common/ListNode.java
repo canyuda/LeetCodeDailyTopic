@@ -1,8 +1,8 @@
-package com.yuda.train;
+package com.yuda.train.common;
 
-class ListNode {
-    int val;
-    ListNode next;
+public class ListNode {
+    public int val;
+    public ListNode next;
 
     ListNode() {
     }

@@ -1,5 +1,7 @@
 package com.yuda.train;
 
+import com.yuda.train.common.ListNode;
+
 public class Solution206 {
     public ListNode reverseList(ListNode head) {
         ListNode current = head;
